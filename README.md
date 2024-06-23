@@ -1,23 +1,17 @@
 ## Hi, I'm Albert
-Exploring depths of **backend development** with Python. I like reading. My usual state is that of learning something (not strictly within IT).
+**Exploring depths of backend development with Python.** 
 
+### ☕ Intro
 - I'm currently working on several web-projects as well as seeking a job.
+- I like reading. My usual state is that of learning something, including in areas outside of IT, too.
+- Former financial analyst though still quite interested in topics of business and investing.
+- Bachelor of Economics at Lomonosov MSU.
 - CV: [English version](https://drive.google.com/file/d/1lZdTh0Tnk-FtPBK8ptl0LVL4uL1D-CaR/view?usp=drive_link) | [Russian version](https://drive.google.com/file/d/1qye5I1vUH8LxV7-svn9-A_gAQS9YtSfj/view?usp=drive_link)
 
-#### Contact me 🖊️
+### 🖊️ Contact me
 - Telegram: [@amiable0ne](t.me/amiable0ne)
 - Email: [albersafinf@gmail.com](albersafinf@gmail.com)
+
 <!--
-**amiableone/amiableone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+It's a comment
 -->
