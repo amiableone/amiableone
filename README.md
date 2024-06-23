@@ -1,7 +1,7 @@
 ## Hi, I'm Albert
 **Exploring depths of backend development with Python.** 
 
-### ☕ Intro
+### 📘 Intro
 - I'm currently working on several web-projects as well as seeking a job.
 - I like reading. My usual state is that of learning something, including in areas outside of IT, too.
 - Former financial analyst though still quite interested in topics of business and investing.
